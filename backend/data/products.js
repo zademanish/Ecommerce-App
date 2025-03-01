@@ -18,13 +18,21 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/salwar-kurta-dupatta/f/j/9/l-r11-govindam-original-imah9kwehtku6fwy.jpeg?q=70&crop=false",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/k/b/h/44-asaeosh1464-arrow-sport-original-imah4svtzgnekzyg.jpeg",
         altText: "Classic Oxford Button-Down Shirt Front View",
       },
       {
-        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/salwar-kurta-dupatta/p/l/j/l-r11-govindam-original-imah9kwet6kanpm2.jpeg?q=70&crop=false",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/e/r/m/44-asaeosh1464-arrow-sport-original-imah4svtyvczgtfe.jpeg",
         altText: "Classic Oxford Button-Down Shirt Back View",
       },
+      {
+        url:"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/a/4/h/44-asaeosh1464-arrow-sport-original-imah4svt4wvzzmf2.jpeg",
+        altText:"Classic Oxford Button-Down Shirt Front View"
+      },
+      {
+        url:"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/j/2/v/44-asaeosh1464-arrow-sport-original-imah4svt48fg35yw.jpeg",
+        altText:"Classic Oxford Button-Down Shirt Front View"
+      }
     ],
     rating: 4.5,
     numReviews: 12,
@@ -46,11 +54,19 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=41",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/v/3/q/l-ue-2201-apuesto-original-imah7m6y7qmgqver.jpeg",
         altText: "Slim-Fit Stretch Shirt Front View",
       },
       {
-        url: "https://picsum.photos/500/500?random=42",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/r/b/d/l-ue-2201-apuesto-original-imah7m6ywjcx5aty.jpeg",
+        altText: "Slim-Fit Stretch Shirt Back View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/v/h/y/l-ue-2201-apuesto-original-imah7m6y6fdcqtsc.jpeg",
+        altText: "Slim-Fit Stretch Shirt Back View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/5/g/l/l-ue-2201-apuesto-original-imah7m6ypg797udp.jpeg",
         altText: "Slim-Fit Stretch Shirt Back View",
       },
     ],
@@ -110,11 +126,19 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=45",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/1/f/t/m-men-slim-fit-printed-spread-collar-casual-shirt-sys-bella-original-imah9fyjexqmymkx.jpeg",
         altText: "Printed Resort Shirt Front View",
       },
       {
-        url: "https://picsum.photos/500/500?random=1",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/9/d/u/m-men-slim-fit-printed-spread-collar-casual-shirt-sys-bella-original-imah9fyjnz6sfj9x.jpeg",
+        altText: "Printed Resort Shirt Back View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/q/9/p/m-men-slim-fit-printed-spread-collar-casual-shirt-sys-bella-original-imah9fyjs2qbuuzp.jpeg",
+        altText: "Printed Resort Shirt Back View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/k/r/n/m-men-slim-fit-printed-spread-collar-casual-shirt-sys-bella-original-imah9fyjw4zffnfh.jpeg",
         altText: "Printed Resort Shirt Back View",
       },
     ],
@@ -138,11 +162,19 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=47",
+        url: "https://rukminim2.flixcart.com/image/832/832/kjym9ow0/shirt/z/m/i/40-12001-brown-english-navy-original-imafzenrhm4a4wwj.jpeg",
         altText: "Slim-Fit Easy-Iron Shirt Front View",
       },
       {
-        url: "https://picsum.photos/500/500?random=2",
+        url: "https://rukminim2.flixcart.com/image/832/832/kjym9ow0/shirt/h/1/m/40-12001-brown-english-navy-original-imafzenrper9cgyj.jpeg",
+        altText: "Slim-Fit Easy-Iron Shirt Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/kjym9ow0/shirt/h/k/r/42-12001-brown-english-navy-original-imafzenrp6hytkbq.jpeg",
+        altText: "Slim-Fit Easy-Iron Shirt Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/kjym9ow0/shirt/9/q/l/42-12001-brown-english-navy-original-imafzenrhhqkazxy.jpeg?",
         altText: "Slim-Fit Easy-Iron Shirt Front View",
       },
     ],
@@ -160,17 +192,25 @@ const products = [
     category: "Top Wear",
     brand: "Polo Classics",
     sizes: ["S", "M", "L", "XL"],
-    colors: ["White", "Navy", "Red"],
+    colors: ["Black","White", "Navy", "Red"],
     collections: "Casual Wear",
     material: "Cotton",
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=3",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/z/h/w/l-151-polopocket-black-l-wewok-original-imah75mtyvgnhhke.jpeg",
         altText: "Polo T-Shirt Front View",
       },
       {
-        url: "https://picsum.photos/500/500?random=4",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/z/h/w/l-151-polopocket-black-l-wewok-original-imah75mtyvgnhhke.jpeg",
+        altText: "Polo T-Shirt Back View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/4/y/w/s-t74-bl-d1-patois-original-imah84nptgk5zhdq.jpeg",
+        altText: "Polo T-Shirt Back View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/b/x/7/l-mzpoloblk-mzkhan-original-imah42f2dfktpgxe.jpeg",
         altText: "Polo T-Shirt Back View",
       },
     ],
@@ -188,13 +228,25 @@ const products = [
     category: "Top Wear",
     brand: "Street Vibes",
     sizes: ["S", "M", "L", "XL"],
-    colors: ["Black", "Gray"],
+    colors: ["Blue","Black", "Gray"],
     collections: "Streetwear",
     material: "Cotton",
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=5",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/l/s/x/m-airforce-hand-half-funkari-original-imah9guzajjetzhx.jpeg",
+        altText: "Oversized Graphic T-Shirt Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/q/c/3/m-airforce-hand-half-funkari-original-imah9guz2qseayzt.jpeg",
+        altText: "Oversized Graphic T-Shirt Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/8/1/c/m-airforce-hand-half-funkari-original-imah9guzscq8vzrj.jpeg",
+        altText: "Oversized Graphic T-Shirt Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/t/d/i/l-sky-hand-ruggstar-original-imah38bhteszwhqn.jpeg",
         altText: "Oversized Graphic T-Shirt Front View",
       },
     ],
@@ -212,13 +264,25 @@ const products = [
     category: "Top Wear",
     brand: "Heritage Wear",
     sizes: ["S", "M", "L", "XL"],
-    colors: ["Heather Gray", "Olive", "Black"],
+    colors: ["Black","Red","Blue"],
     collections: "Casual Wear",
     material: "Cotton Blend",
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=6",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/d/l/p/m-10-button-black-m-psdesign-original-imagteze2ysec6qc.jpeg",
+        altText: "Regular-Fit Henley Shirt Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/1/e/e/m-10-button-blue-m-vescor-original-imagtmthugyrfg7a.jpeg",
+        altText: "Regular-Fit Henley Shirt Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/v/q/s/s-10button-maroon-s-psdesign-original-imagtgyznsfkyzfy.jpeg",
+        altText: "Regular-Fit Henley Shirt Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/o/q/h/s-10button-maroon-s-psdesign-original-imagtgyzu6phbfsw.jpeg",
         altText: "Regular-Fit Henley Shirt Front View",
       },
     ],
@@ -242,7 +306,19 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=7",
+        url: "https://rukminim2.flixcart.com/image/832/832/kj36ky80-0/thermal/7/m/e/90-amltrnst-alfa-original-imae9zvhzgqckhdu.jpeg",
+        altText: "Long-Sleeve Thermal Tee Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/kj61gnk0-0/thermal/8/u/m/90-amltrnst-alfa-original-imae9zvhys2jhfkn.jpeg",
+        altText: "Long-Sleeve Thermal Tee Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/kj7gwi80-0/thermal/h/f/w/100-amlavarnsetbrwn-alfa-original-imafytk3hpqqcuh2.jpeg",
+        altText: "Long-Sleeve Thermal Tee Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/kj7gwi80-0/thermal/v/0/p/80-amlavarnsetnavy-alfa-original-imafytk2wj6ksfzv.jpeg",
         altText: "Long-Sleeve Thermal Tee Front View",
       },
     ],
@@ -266,7 +342,19 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=8",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/s/p/c/m-t-shirt-hs-y-m-thenixon-original-imahfnjgqv2u4ccp.jpeg",
+        altText: "V-Neck Classic T-Shirt Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/6/s/s/m-t-shirt-hs-y-m-thenixon-original-imahfnjgeqvgwzga.jpeg",
+        altText: "V-Neck Classic T-Shirt Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/1/7/t/l-t-shirt-hs-y-m-thenixon-original-imahfnjgmg6eggyu.jpeg",
+        altText: "V-Neck Classic T-Shirt Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/m/j/t/l-t-shirt-hs-y-m-thenixon-original-imahfnjg8egjrprs.jpeg",
         altText: "V-Neck Classic T-Shirt Front View",
       },
     ],
@@ -290,7 +378,19 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=9",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/t/t/n/32-lrtfcjgpy70323-louis-philippe-jeans-original-imaggmv44ffhgtmq.jpeg",
+        altText: "Slim Fit Joggers Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/e/p/w/32-lrtfcjgpy70323-louis-philippe-jeans-original-imaggmv4e87vyhcn.jpeg",
+        altText: "Slim Fit Joggers Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/416/416/xif0q/trouser/v/c/4/34-26705852-here-now-original-imah5yzaxaybbknp.jpeg",
+        altText: "Slim Fit Joggers Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/6/z/a/34-26705852-here-now-original-imah5yza7nk873pm.jpeg",
         altText: "Slim Fit Joggers Front View",
       },
     ],
@@ -314,7 +414,19 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=10",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/cargo/i/v/u/36-new-jogger-10-pockets-dark-green-motrex-original-imagzzhvjufbjzxm.jpeg",
+        altText: "Cargo Joggers Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/cargo/f/5/f/36-new-jogger-10-pockets-dark-green-motrex-original-imagzzhvnt39dqc4.jpeg",
+        altText: "Cargo Joggers Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/cargo/q/y/t/34-jogger-10-pockets-black-plus91-original-imagzrzz9gjczps6.jpeg",
+        altText: "Cargo Joggers Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/cargo/r/b/w/34-jogger-10-pockets-black-plus91-original-imagzrzzcjwxmfrg.jpeg",
         altText: "Cargo Joggers Front View",
       },
     ],
@@ -338,7 +450,19 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=11",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/track-pant/g/5/u/l-new-track-pants-12-ficka-original-imah7y3cbehfyhrg.jpeg",
+        altText: "Tapered Sweatpants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/track-pant/u/y/k/l-new-track-pants-12-ficka-original-imah7y3cyczjd6fj.jpeg",
+        altText: "Tapered Sweatpants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/track-pant/k/c/z/xxl-new-track-pants-12-ficka-original-imah7y3cergtpadm.jpeg",
+        altText: "Tapered Sweatpants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/track-pant/i/f/x/xxl-new-track-pants-12-ficka-original-imah7y3cdhanzrwe.jpeg",
         altText: "Tapered Sweatpants Front View",
       },
     ],
@@ -362,7 +486,19 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=12",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/0/r/q/34-panjean22-122-mrnblue-urbano-fashion-original-imagkrgm4uxqp3ky.jpeg",
+        altText: "Denim Jeans Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/s/q/m/34-panjean22-122-mrnblue-urbano-fashion-original-imagkrgmfchtztb3.jpeg",
+        altText: "Denim Jeans Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/f/h/1/34-panjean22-122-mrnblue-urbano-fashion-original-imagkrgmyjywec3t.jpeg",
+        altText: "Denim Jeans Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/l/l/e/34-panjean22-122-mrnblue-urbano-fashion-original-imagkrgmh8saeywg.jpeg",
         altText: "Denim Jeans Front View",
       },
     ],
@@ -386,7 +522,19 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=13",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/e/v/y/32-trs-mellow-gry-mf-ly-classic-polo-original-imah48z6tkwqn8p5.jpeg?q=70&crop=false",
+        altText: "Chino Pants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/f/p/r/32-trs-mellow-gry-mf-ly-classic-polo-original-imah48z6hjgqfy3f.jpeg",
+        altText: "Chino Pants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/e/v/y/32-trs-mellow-gry-mf-ly-classic-polo-original-imah48z6tkwqn8p5.jpeg?q=70&crop=false",
+        altText: "Chino Pants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/e/v/y/32-trs-mellow-gry-mf-ly-classic-polo-original-imah48z6tkwqn8p5.jpeg?q=70&crop=false",
         altText: "Chino Pants Front View",
       },
     ],
@@ -410,7 +558,19 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=14",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/track-pant/c/h/g/s-solid-gym-wear-track-pant-yazole-original-imah48xcnupdnpyz.jpeg",
+        altText: "Track Pants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/track-pant/z/f/p/s-solid-gym-wear-track-pant-yazole-original-imah48xcpx5hzzdp.jpeg",
+        altText: "Track Pants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/track-pant/w/w/d/m-solid-gym-wear-track-pant-yazole-original-imagzhqtzqgky4ax.jpeg",
+        altText: "Track Pants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/track-pant/5/c/q/s-solid-gym-wear-track-pant-yazole-original-imah48xcqcrkezsh.jpeg",
         altText: "Track Pants Front View",
       },
     ],
@@ -434,7 +594,19 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=15",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/p/l/v/34-mendoublenew-tenit-original-imahynwzuqcjqkth.jpeg",
+        altText: "Slim Fit Trousers Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/b/v/l/34-mendoublenew-tenit-original-imahynwzthpuuyng.jpeg",
+        altText: "Slim Fit Trousers Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/m/u/s/32-mendoublenew-tenit-original-imahywphxvxahypq.jpeg",
+        altText: "Slim Fit Trousers Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/f/f/3/32-mendoublenew-tenit-original-imahywphu6s35k84.jpeg",
         altText: "Slim Fit Trousers Front View",
       },
     ],
@@ -458,7 +630,19 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=16",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/cargo/e/0/z/s-bbgcargo-dp-p21-blive-original-imah3katyhsf85ax.jpeg",
+        altText: "Cargo Pants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/cargo/s/s/k/s-bbgcargo-dp-p21-blive-original-imah3katgwcvmekf.jpeg",
+        altText: "Cargo Pants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/416/416/xif0q/jean/7/i/w/30-01-jaar-jean-loose-blk-jaar-fashion-original-imahfay8xgpuykyr.jpeg",
+        altText: "Cargo Pants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/cargo/t/n/n/s-01-cargo-loose-black-nayak-fashion-original-imah543xg3rnrgvp.jpeg",
         altText: "Cargo Pants Front View",
       },
     ],
@@ -482,7 +666,19 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=17",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/track-pant/r/y/z/xxl-trackpant-01-green-uzarus-original-imah6ck7avfndzhz.jpeg",
+        altText: "Relaxed Fit Sweatpants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/track-pant/x/f/0/xxl-trackpant-01-green-uzarus-original-imah6ck7pzczhhkn.jpeg",
+        altText: "Relaxed Fit Sweatpants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/track-pant/o/u/4/xxl-trackpant-01-green-uzarus-original-imah6ck7rhk8b8qc.jpeg",
+        altText: "Relaxed Fit Sweatpants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/track-pant/o/l/f/xl-trackpant-01-bk-uzarus-original-imah6ck7cgbdkptr.jpeg",
         altText: "Relaxed Fit Sweatpants Front View",
       },
     ],
@@ -506,9 +702,22 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=18",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/z/2/8/30-aa-formal-pants-peter-richard-original-imaggrnjshqx5eqc.jpeg",
         altText: "Formal Dress Pants Front View",
       },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/u/z/s/30-aa-formal-pants-peter-richard-original-imaggrnj7fwpsufn.jpeg",
+         altText: "Formal Dress Pants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/z/k/a/30-aa-formal-pants-peter-richard-original-imaggrnjkhvdhhch.jpeg",
+         altText: "Formal Dress Pants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/k/h/7/30-aa-formal-pants-peter-richard-original-imaggrnjethtd9ue.jpeg?q=70&crop=false",
+         altText: "Formal Dress Pants Front View",
+      },
+     
     ],
     rating: 4.9,
     numReviews: 8,
@@ -530,7 +739,23 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=19",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/y/p/c/28-mcaw23den98-30-389-miss-chase-original-imah757wfkpdqtp4.jpeg",
+        altText: "High-Waist Skinny Jeans",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/m/r/v/28-mcaw23den98-30-389-miss-chase-original-imah757wpfeghbgj.jpeg",
+        altText: "High-Waist Skinny Jeans",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/g/e/7/28-mcaw23den98-30-389-miss-chase-original-imah757wfczgdwde.jpeg",
+        altText: "High-Waist Skinny Jeans",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/f/e/1/30-a411-akacy-original-imah8pf3rjxggjpd.jpeg",
+        altText: "High-Waist Skinny Jeans",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/g/z/d/30-a411-akacy-original-imah8pf3n7twp4jr.jpeg",
         altText: "High-Waist Skinny Jeans",
       },
     ],
@@ -554,8 +779,20 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=20",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/8/i/7/32-kttwomenspant471-kotty-original-imagx7j9uypfxxwp.jpeg",
         altText: "Wide-Leg Trousers Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/1/x/t/32-kttwomenspant471-kotty-original-imagx7j9cas4mhgc.jpeg",
+        altText: "Cargo Pants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/o/r/t/30-kttwomenspant474-kotty-original-imagx7j9s6hpdsr3.jpeg",
+        altText: "Cargo Pants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/a/o/n/30-kttwomenspant474-kotty-original-imagx7j9vzhhznmm.jpeg",
+        altText: "Cargo Pants Front View",
       },
     ],
     rating: 4.7,
@@ -578,7 +815,19 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=21",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/legging/u/t/t/xl-1504-white-plus-twin-birds-original-imah936qr3vtjwcr.jpeg",
+        altText: "Stretch Leggings Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/legging/t/n/v/xl-1504-white-plus-twin-birds-original-imah936qrqeur4hg.jpeg",
+        altText: "Stretch Leggings Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/legging/x/e/i/s-1504-steel-grey-twin-birds-original-imah936qgufgs7az.jpeg",
+        altText: "Stretch Leggings Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/legging/o/b/r/s-1504-steel-grey-twin-birds-original-imah936qpbgkhwya.jpeg",
         altText: "Stretch Leggings Front View",
       },
     ],
@@ -602,7 +851,19 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=22",
+        url: "https://rukminim2.flixcart.com/image/832/832/l4a7pu80/skirt/b/w/g/free-1-midi-plat-zwerlon-original-imagf7pjwnf4zjza.jpeg",
+        altText: "Pleated Midi Skirt Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/l4a7pu80/skirt/3/4/i/free-1-midi-plat-zwerlon-original-imagf7pjszx5jpsz.jpeg",
+        altText: "Pleated Midi Skirt Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/skirt/w/x/1/free-1-skrt-1003-zwerlon-original-imaggtn9mgaheasu.jpeg",
+        altText: "Pleated Midi Skirt Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/skirt/m/s/l/free-1-skrt-1003-zwerlon-original-imaggtn9ygfcnhvf.jpeg",
         altText: "Pleated Midi Skirt Front View",
       },
     ],
@@ -626,7 +887,19 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=23",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/e/c/k/free-emz01952-emeros-original-imagnfk7vqk5vzmf.jpeg",
+        altText: "Flared Palazzo Pants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/6/j/c/free-emz01952-emeros-original-imagnfk7q57n5ftg.jpeg",
+        altText: "Flared Palazzo Pants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/x/a/y/free-emz01952-emeros-original-imagnfk7qhqacrd5.jpeg",
+        altText: "Flared Palazzo Pants Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/t/h/c/free-emz01952-emeros-original-imagnfk7rz6cptu3.jpeg",
         altText: "Flared Palazzo Pants Front View",
       },
     ],
@@ -650,7 +923,19 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=24",
+        url: "https://rukminim2.flixcart.com/image/416/416/xif0q/jean/j/7/w/32-kttladiesjeans2474-kotty-original-imahftyxggegehyp.jpeg",
+        altText: "High-Rise Joggers Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/416/416/xif0q/jean/l/3/p/32-kttladiesjeans2474-kotty-original-imahftyxmqm9ydzc.jpeg",
+        altText: "High-Rise Joggers Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/m/r/d/32-kttladiesjeans2474-kotty-original-imahftyxg8an9zhs.jpeg",
+        altText: "High-Rise Joggers Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/m/c/r/32-kttladiesjeans2474-kotty-original-imahftyxwgfpwveg.jpeg",
         altText: "High-Rise Joggers Front View",
       },
     ],
@@ -674,7 +959,19 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=25",
+        url: "https://rukminim2.flixcart.com/image/416/416/xif0q/short/w/6/m/s-6273-darzi-original-imagnx36zvaqdgjf.jpeg",
+        altText: "Paperbag Waist Shorts Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/short/d/9/x/s-6273-darzi-original-imagnx36vmf2g8by.jpeg",
+        altText: "Paperbag Waist Shorts Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/kqpj4i80/short/q/n/d/34-cl-wm-l0748-addyvero-original-imag4ntppagkczeg.jpeg",
+        altText: "Paperbag Waist Shorts Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/kqpj4i80/short/i/e/j/34-cl-wm-l0748-addyvero-original-imag4ntphghvqgwa.jpeg",
         altText: "Paperbag Waist Shorts Front View",
       },
     ],
@@ -698,7 +995,19 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=26",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/short/m/k/i/28-mcss24den94-20-54-miss-chase-original-imah6y7tght97hse.jpeg",
+        altText: "Stretch Denim Shorts Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/416/416/xif0q/short/e/x/6/32-mcss24den94-20-62-miss-chase-original-imah6y7tcjpxgfgb.jpeg",
+        altText: "Stretch Denim Shorts Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/short/g/f/m/32-mcss24den94-20-62-miss-chase-original-imah6y7txjwzzdwg.jpeg",
+        altText: "Stretch Denim Shorts Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/short/l/v/i/32-mcss24den94-20-62-miss-chase-original-imah6y7t7wqghh4y.jpeg",
         altText: "Stretch Denim Shorts Front View",
       },
     ],
@@ -722,7 +1031,19 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=27",
+        url: "https://rukminim2.flixcart.com/image/832/832/juh9ksw0/trouser/y/2/r/xl-solidflame-laya-original-imafev4te65tsgy3.jpeg",
+        altText: "Culottes Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/juh9ksw0/trouser/y/2/r/xl-solidflame-laya-original-imafev4te65tsgy3.jpeg",
+        altText: "Culottes Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/jz5vjbk0/trouser/m/j/z/xl-reta-solid-black-laya-original-imafj83c5mdke2xw.jpeg",
+        altText: "Culottes Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/jz5vjbk0/trouser/m/j/z/xl-reta-solid-black-laya-original-imafj83chd9t65gq.jpeg",
         altText: "Culottes Front View",
       },
     ],
@@ -740,13 +1061,25 @@ const products = [
     category: "Bottom Wear",
     brand: "ElegantWear",
     sizes: ["S", "M", "L", "XL"],
-    colors: ["Navy", "Black", "Gray"],
+    colors: ["Red", "Pink", "Gray"],
     collections: "Formal Collection",
     material: "Wool Blend",
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=28",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/0/c/z/34-kttwomenspant472-kotty-original-imagx7j9ebhghe5u.jpeg",
+        altText: "Classic Pleated Trousers Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/u/r/j/34-kttwomenspant472-kotty-original-imagx7j9cbtz4xww.jpeg",
+        altText: "Classic Pleated Trousers Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/9/s/p/28-kttwomenspant475-kotty-original-imagx7j9rfugagqw.jpeg",
+        altText: "Classic Pleated Trousers Front View",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/5/a/b/28-kttwomenspant475-kotty-original-imagx7j9hfmqz8zk.jpeg",
         altText: "Classic Pleated Trousers Front View",
       },
     ],
@@ -770,7 +1103,19 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=29",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/top/p/s/n/s-dg-hynk-crop-sando-ddaspration-original-imaghrgwynwxzczk.jpeg",
+        altText: "Knitted Cropped Top",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/top/a/x/z/s-dg-hynk-crop-sando-ddaspration-original-imaghrgw3xfavfng.jpeg",
+        altText: "Knitted Cropped Top",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/kyg5zm80/top/e/1/i/s-173-black-aahwan-original-imagaz8eytjsefax.jpeg",
+        altText: "Knitted Cropped Top",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/kyg5zm80/top/a/f/7/s-173-black-aahwan-original-imagaz8eykeqkmvc.jpeg",
         altText: "Knitted Cropped Top",
       },
     ],
@@ -794,7 +1139,19 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=30",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/blouse/l/w/m/m-rbbl164-oomph-original-imah7uqhrfu3nzza.jpeg",
+        altText: "Boho Floral Blouse",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/blouse/o/w/v/m-rbbl164-oomph-original-imah7uqhgn4ccj9m.jpeg",
+        altText: "Boho Floral Blouse",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/blouse/2/r/1/m-rbbl164-oomph-original-imah7uqhemqyndbc.jpeg",
+        altText: "Boho Floral Blouse",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/blouse/l/2/s/m-rbbl164-oomph-original-imah7uqhmvm3dxbs.jpeg",
         altText: "Boho Floral Blouse",
       },
     ],
@@ -818,7 +1175,19 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=31",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/b/b/p/l-31005357-here-now-original-imah8y57nfdaxbeg.jpeg",
+        altText: "Casual T-Shirt",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/n/s/h/l-31005357-here-now-original-imah8y57rxh5cdnx.jpeg",
+        altText: "Casual T-Shirt",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/h/b/r/l-31005357-here-now-original-imah8y57fa59ksxj.jpeg",
+        altText: "Casual T-Shirt",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/o/4/u/l-31005357-here-now-original-imah8y57rp3nevpg.jpeg",
         altText: "Casual T-Shirt",
       },
     ],
@@ -842,7 +1211,19 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=32",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/top/f/o/m/s-1-flower-pattern-floral-top-dragon-sky-original-imah8kvbtqvzvbqf.jpeg",
+        altText: "Off-Shoulder Top",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/top/k/8/j/s-1-flower-pattern-floral-top-dragon-sky-original-imah8kvbnsfkffve.jpeg",
+        altText: "Off-Shoulder Top",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/top/d/x/v/s-1-flower-pattern-floral-top-dragon-sky-original-imah8kvbhgmdxcgz.jpeg",
+        altText: "Off-Shoulder Top",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/top/d/i/j/s-1-flower-pattern-floral-top-dragon-sky-original-imah8kvbwftbcegc.jpeg",
         altText: "Off-Shoulder Top",
       },
     ],
@@ -866,7 +1247,19 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=33",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/top/b/k/9/xl-woolenn-top-blue-m-y-company-original-imagv7kpbchbxrps.jpeg",
+        altText: "Lace-Trimmed Cami Top",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/top/y/c/a/xl-woolenn-top-blue-m-y-company-original-imagv7kppd8b9erg.jpeg",
+        altText: "Lace-Trimmed Cami Top",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/top/b/n/k/m-woolenn-top-blue-m-y-company-original-imagv7kpas9wsnsx.jpeg",
+        altText: "Lace-Trimmed Cami Top",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/top/o/t/m/m-woolenn-top-blue-m-y-company-original-imagv7kpdz37neta.jpeg",
         altText: "Lace-Trimmed Cami Top",
       },
     ],
@@ -890,7 +1283,19 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=34",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/n/g/8/l-chai-premi-pd-clori-original-imah96gkhjmwzfy2.jpeg",
+        altText: "Graphic Print Tee",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/t/u/p/s-chai-premi-pd-clori-original-imah95k2j8mh7gzb.jpeg",
+        altText: "Graphic Print Tee",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/6/u/u/l-chai-premi-pd-clori-original-imah9aysrrnxwzgz.jpeg",
+        altText: "Graphic Print Tee",
+      },
+      {
+        url: "https://picsum.photos/500/500?random=https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/w/v/l/l-chai-premi-pd-clori-original-imah9aysqggffd58.jpeg",
         altText: "Graphic Print Tee",
       },
     ],
@@ -914,7 +1319,19 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=35",
+        url: "https://rukminim2.flixcart.com/image/832/832/ki214sw0-0/top/7/l/w/m-black-rib-square-new-sightbomb-original-imafxwv568qx8fcw.jpeg",
+        altText: "Ribbed Long-Sleeve Top",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/ki214sw0-0/top/q/v/8/m-black-rib-square-new-sightbomb-original-imafxwv5g8jhhsb3.jpeg",
+        altText: "Ribbed Long-Sleeve Top",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/top/f/w/n/m-1-red-deep-neck-sightbomb-original-imahf2ggezkjnckz.jpeg",
+        altText: "Ribbed Long-Sleeve Top",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/top/b/m/p/m-1-red-deep-neck-sightbomb-original-imahf2ggkam83xgz.jpeg",
         altText: "Ribbed Long-Sleeve Top",
       },
     ],
@@ -938,7 +1355,19 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=36",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/blouse/y/t/f/l-a-63-n-black-vamas-the-designer-blouses-original-imagwh5c2zrbxg4t.jpeg",
+        altText: "Ruffle-Sleeve Blouse",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/blouse/g/4/j/l-a-63-n-black-vamas-the-designer-blouses-original-imagwh5csnvnpjuu.jpeg",
+        altText: "Ruffle-Sleeve Blouse",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/blouse/m/s/5/l-a-63-n-red-vamas-the-designer-blouses-original-imagwh5curypctd8.jpeg",
+        altText: "Ruffle-Sleeve Blouse",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/blouse/z/r/o/l-a-63-n-red-vamas-the-designer-blouses-original-imagwh5crgusbbsh.jpeg",
         altText: "Ruffle-Sleeve Blouse",
       },
     ],
@@ -962,7 +1391,19 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=37",
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/top/w/d/k/s-1-110146292open-air-annabelle-by-pantaloons-original-imagyzs6tuphpemk.jpeg",
+        altText: "Classic Button-Up Shirt",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/top/r/w/c/s-1-110146292open-air-annabelle-by-pantaloons-original-imagyzs6wczzdz6z.jpeg",
+        altText: "Classic Button-Up Shirt",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/top/n/d/j/s-1-110146292open-air-annabelle-by-pantaloons-original-imagyzs6cdgxpwbg.jpeg",
+        altText: "Classic Button-Up Shirt",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/xif0q/top/l/w/d/s-1-110146292open-air-annabelle-by-pantaloons-original-imagyzs6fwfhkshr.jpeg",
         altText: "Classic Button-Up Shirt",
       },
     ],
@@ -986,7 +1427,19 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=38",
+        url: "https://rukminim2.flixcart.com/image/832/832/l44hyfk0/top/n/i/s/m-ltp5251-goldennugget-pluss-original-imagf3bewxtuvbxp.jpeg",
+        altText: "V-Neck Wrap Top",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/l44hyfk0/top/t/e/s/m-ltp5251-goldennugget-pluss-original-imagf3be2jtzybrg.jpeg",
+        altText: "V-Neck Wrap Top",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/l44hyfk0/top/y/e/t/m-ltp5251-goldennugget-pluss-original-imagf3beysfuahwv.jpeg",
+        altText: "V-Neck Wrap Top",
+      },
+      {
+        url: "https://rukminim2.flixcart.com/image/832/832/l44hyfk0/top/y/c/3/m-ltp5251-goldennugget-pluss-original-imagf3bernbrgazt.jpeg",
         altText: "V-Neck Wrap Top",
       },
     ],
