@@ -28,7 +28,7 @@ const Navbar = () => {
     <>
     <nav className="container mx-auto flex items-center justify-between py-4 px-6 ">
       <div>
-        <Link to='/' className="text-2xl font-medium">Rabbit</Link>
+        <Link to='/' className="text-2xl font-medium">SHOP<span className='text-orange-700'>NOW</span></Link>
       </div>
       <div className="hidden md:flex space-x-6">
         <Link to="/collections/all?gender=Men" className="text-gray-700 hover:text-black text-sm font-medium uppercase ">
