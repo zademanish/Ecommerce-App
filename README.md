@@ -1,95 +1,93 @@
-Directory structure:
-└── zademanish-ecommerce-app/
-    ├── backend/
-    │   ├── package.json
-    │   ├── seeder.js
-    │   ├── server.js
-    │   ├── vercel.json
-    │   ├── config/
-    │   │   └── db.js
-    │   ├── middleware/
-    │   │   └── authMiddleware.js
-    │   ├── models/
-    │   │   ├── Cart.js
-    │   │   ├── Checkout.js
-    │   │   ├── Order.js
-    │   │   ├── Product.js
-    │   │   ├── Subscriber.js
-    │   │   └── User.js
-    │   └── routes/
-    │       ├── adminOrderRoutes.js
-    │       ├── adminRoutes.js
-    │       ├── cartRoutes.js
-    │       ├── checkoutRoute.js
-    │       ├── orderRoutes.js
-    │       ├── productAdminRoutes.js
-    │       ├── productRoutes.js
-    │       ├── subscribeRoutes.js
-    │       ├── uploadRoutes.js
-    │       └── userRoutes.js
-    └── frontend/
-        ├── README.md
-        ├── eslint.config.js
-        ├── index.html
-        ├── package.json
-        ├── postcss.config.js
-        ├── tailwind.config.js
-        ├── vercel.json
-        ├── vite.config.js
-        └── src/
-            ├── App.jsx
-            ├── index.css
-            ├── main.jsx
-            ├── components/
-            │   ├── Admin/
-            │   │   ├── AdminLayout.jsx
-            │   │   ├── AdminSidebar.jsx
-            │   │   ├── EditProductPage.jsx
-            │   │   ├── OrderManagement.jsx
-            │   │   ├── ProductManagement.jsx
-            │   │   └── UserManagement.jsx
-            │   ├── Cart/
-            │   │   ├── CartContext.jsx
-            │   │   ├── Checkout.jsx
-            │   │   └── PayPalButton.jsx
-            │   ├── Common/
-            │   │   ├── Footer.jsx
-            │   │   ├── Header.jsx
-            │   │   ├── Navbar.jsx
-            │   │   ├── ProtectedRoute.jsx
-            │   │   └── SearchBar.jsx
-            │   ├── Layout/
-            │   │   ├── CartDrawer.jsx
-            │   │   ├── Hero.jsx
-            │   │   ├── Topbar.jsx
-            │   │   └── UserLayout.jsx
-            │   └── Products/
-            │       ├── FeaturedCollection.jsx
-            │       ├── FeaturesSection.jsx
-            │       ├── FilterSidebar.jsx
-            │       ├── GenderCollectionSection.jsx
-            │       ├── NewArrivals.jsx
-            │       ├── ProductDetails.jsx
-            │       ├── ProductGrid.jsx
-            │       └── SortOptions.jsx
-            ├── pages/
-            │   ├── AdminHomePage.jsx
-            │   ├── CollectionPage.jsx
-            │   ├── Home.jsx
-            │   ├── Login.jsx
-            │   ├── MyOrdersPage.jsx
-            │   ├── OrderConfirmationPage.jsx
-            │   ├── OrderDetailsPage.jsx
-            │   ├── Profile.jsx
-            │   └── Register.jsx
-            └── redux/
-                ├── store.js
-                └── slices/
-                    ├── adminOrderSlice.js
-                    ├── adminProductSlice.js
-                    ├── adminSlice.js
-                    ├── authSlice.js
-                    ├── cartSlice.js
-                    ├── checkoutSlice.js
-                    ├── orderSlice.js
-                    └── productSlice.js
+# 🛒 E-Commerce App
+
+A full-stack E-Commerce web application built using the MERN Stack (MongoDB, Express.js, React.js, Node.js) with Redux Toolkit for state management and Tailwind CSS for responsive UI design.
+
+This application allows users to browse products, add items to cart, place orders, and manage their profiles. It also includes an Admin Panel for managing products, users, and orders.
+
+---
+
+# 🚀 Features
+
+## 👤 User Features
+
+- User Authentication (Login/Register)
+- JWT Authentication & Protected Routes
+- Browse Products
+- Product Filtering & Sorting
+- Product Details Page
+- Add to Cart
+- Cart Drawer
+- Checkout System
+- PayPal Payment Integration
+- Order Placement
+- Order Confirmation
+- My Orders Page
+- User Profile Management
+- Responsive Design
+
+---
+
+## 🛠️ Admin Features
+
+- Admin Dashboard
+- Product Management
+  - Add Product
+  - Edit Product
+  - Delete Product
+- Order Management
+- User Management
+- Upload Product Images
+
+---
+
+# 🧰 Tech Stack
+
+## Frontend
+
+- React.js
+- Redux Toolkit
+- React Router DOM
+- Tailwind CSS
+- Axios
+- Vite
+
+## Backend
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT Authentication
+- bcryptjs
+- Multer
+
+## Payment Gateway
+
+- PayPal
+
+---
+
+# 📁 Project Structure
+
+```bash
+zademanish-ecommerce-app/
+│
+├── backend/
+│   ├── config/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   ├── package.json
+│   ├── server.js
+│   └── seeder.js
+│
+└── frontend/
+    ├── src/
+    │   ├── components/
+    │   ├── pages/
+    │   ├── redux/
+    │   ├── App.jsx
+    │   └── main.jsx
+    │
+    ├── package.json
+    └── vite.config.js
